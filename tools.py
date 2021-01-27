@@ -25,7 +25,7 @@
    'print''[92m[[97m7[92m] [97mWIFI '
    'print''[92m[[97m8[92m] [97mspam and call '
    'print''[92m[[91m0[92m] [91mExit '
-   'gans = raw_input ([97m==>[93m ')
+   'gans = raw_input ([97m==>[93m )'
    'if gans in ['1']:
        'time.sleep(1)
         'os.system' '(git clone https://github.com/gkbrk/slowloris)'
@@ -35,7 +35,7 @@
     'if gans in ['2']:
         'time.sleep(1)
         'os.system (git clone https://github.com/DarkSecDevelopers/HiddenEye-Legacy)'
-        'print ([97m$ step 1 [93mcd HiddenEye-Legacy')
+        'print ([97m$ step 1 [93mcd HiddenEye-Legacy)'
         'print ([97m$ step 2 [93m pip3 install -r requirements.txt )'
         'print ([97m$ step 3 [93m python3 HiddenEye.py)'
         'exit()
