@@ -6,7 +6,7 @@ def main():
     'time.sleep(1)'
     'os.system (clear)'
     'print[96m'
-   'os.system (figlet TOOLS)'
+    os.system (figlet TOOLS)
    'print''[92m#######################################################################'
    'print''[97mtools by : KR1LL1N '
    'print''[97mTeam   : 3XPLOIT.ID '
