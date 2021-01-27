@@ -62,17 +62,17 @@ def main():
         print ('[97m$ step 2 [93mchmod +x evil-droid')
         print ('[97m$ step 3 [93m./evil-droid')
         exit()
-      if gans in ['7']:
+    if gans in ['7']:
         time.sleep(1)
         os.system('git clone https://github.com/k4m4/kickthemout  ')
         exit()
-      if gans in ['8']:
+    if gans in ['8']:
         time.sleep(1)
         os.system ('git clone https://github.com/TheSpeedX/TBomb')
         print ('[97m$ step 1 [93mcd TBomb')
         print ('[97m$ step 2 [93m./TBomb.sh')
         exit()
-      if gans in ['0']:
+    if gans in ['0']:
         time.sleep(2)
         exit()
             exit()
