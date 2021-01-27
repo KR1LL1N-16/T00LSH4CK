@@ -1,3 +1,5 @@
+#coded by KR1LL1N
+# -- coding: UTF-8 --
 import os,sys,time
 
 def main():
