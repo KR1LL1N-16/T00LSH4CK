@@ -5,7 +5,7 @@
 def main():
     'time.sleep(1)'
     'os.system (clear)'
-    'print ''[96m'
+    'print[96m'
    'os.system (figlet TOOLS)'
    'print''[92m#######################################################################'
    'print''[97mtools by : KR1LL1N '
