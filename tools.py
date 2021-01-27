@@ -2,7 +2,7 @@
 # -- coding: UTF-8 --
 'import os,sys,time'
 
-'def main():
+def main():
     'time.sleep(1)'
     'os.system (clear)'
     'print ''[96m'
